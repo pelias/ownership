@@ -6,6 +6,15 @@
   "pelias-dbclient",
   "pelias-suggester-pipeline",
   "pelias-hierarchy-lookup",
+  "pelias-admin-lookup",
+  "pelias-openaddresses",
+  "pelias-openstreetmap",
+  "pelias-tiger",
+  "pelias-logger",
+  "pelias-init",
+  "quattroshapes-pipeline",
+  "line-interpolate-points",
+  "polygon-lookup",
   "pbf2json",
   "geopipes-elasticsearch-backend"
 ]
