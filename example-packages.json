@@ -4,6 +4,7 @@
   "pelias-config",
   "pelias-dbclient",
   "pelias-esclient",
+  "pelias-fuzzy-tester",
   "pelias-geonames",
   "pelias-hierarchy-lookup",
   "pelias-init",
