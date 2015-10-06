@@ -1,20 +1,32 @@
 [
-  "pelias-schema",
-  "pelias-config",
-  "pelias-model",
-  "pelias-esclient",
-  "pelias-dbclient",
-  "pelias-suggester-pipeline",
-  "pelias-hierarchy-lookup",
   "pelias-admin-lookup",
+  "pelias-api",
+  "pelias-config",
+  "pelias-dbclient",
+  "pelias-esclient",
+  "pelias-geonames",
+  "pelias-hierarchy-lookup",
+  "pelias-init",
+  "pelias-logger",
+  "pelias-model",
   "pelias-openaddresses",
   "pelias-openstreetmap",
+  "pelias-query",
+  "pelias-schema",
+  "pelias-suggester-pipeline",
   "pelias-tiger",
-  "pelias-logger",
-  "pelias-init",
+
+  "openstreetmap-stream",
+  "osmium-stream",
+  "geonames-stream",
+  "prop-stream",
+  "shapefile-stream",
+
   "quattroshapes-pipeline",
   "line-interpolate-points",
   "polygon-lookup",
+
   "pbf2json",
+
   "geopipes-elasticsearch-backend"
 ]
