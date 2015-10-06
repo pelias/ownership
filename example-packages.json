@@ -28,5 +28,10 @@
 
   "pbf2json",
 
-  "geopipes-elasticsearch-backend"
+  "geopipes-elasticsearch-backend",
+  
+  "fences",
+  "fences-builder",
+  "fences-slicer",
+  "geocodejson-stream"
 ]
