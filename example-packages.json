@@ -32,5 +32,8 @@
   "fences",
   "fences-builder",
   "fences-slicer",
-  "geocodejson-stream"
+  "geocodejson-stream",
+  "pelias-logger",
+  "line-interpolate-points",
+  "polygon-lookup"
 ]
