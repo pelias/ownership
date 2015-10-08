@@ -15,7 +15,6 @@
   "pelias-query",
   "pelias-schema",
   "pelias-suggester-pipeline",
-  "pelias-tiger",
 
   "openstreetmap-stream",
   "osmium-stream",
@@ -23,7 +22,6 @@
   "prop-stream",
   "shapefile-stream",
 
-  "quattroshapes-pipeline",
   "line-interpolate-points",
   "polygon-lookup",
 
