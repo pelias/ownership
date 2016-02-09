@@ -15,6 +15,7 @@
   "pelias-query",
   "pelias-schema",
   "pelias-suggester-pipeline",
+  "pelias-wof-pip-service",
 
   "openstreetmap-stream",
   "osmium-stream",
