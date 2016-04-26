@@ -1,6 +1,10 @@
 [
+  "pelias-addresses",
+  "pelias-address-deduplicator",
+  "pelias-address-deduplicator-stream",
   "pelias-admin-lookup",
   "pelias-api",
+  "pelias-cli",
   "pelias-config",
   "pelias-dbclient",
   "pelias-esclient",
@@ -30,12 +34,15 @@
   "pbf2json",
 
   "geopipes-elasticsearch-backend",
-  
+
   "fences",
   "fences-builder",
   "fences-slicer",
   "geocodejson-stream",
   "pelias-logger",
   "line-interpolate-points",
-  "polygon-lookup"
+  "polygon-lookup",
+
+  "quattroshapes",
+  "schema-mapper"
 ]
