@@ -19,6 +19,7 @@
   "pelias-query",
   "pelias-schema",
   "pelias-suggester-pipeline",
+  "pelias-text-analyzer",
   "pelias-whosonfirst",
   "pelias-wof-admin-lookup",
   "pelias-wof-pip-service",
