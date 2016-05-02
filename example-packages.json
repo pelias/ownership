@@ -1,7 +1,6 @@
 [
-  "pelias-addresses",
   "pelias-address-deduplicator",
-  "address-deduplicator-stream",
+  "pelias-addresses",
   "pelias-admin-lookup",
   "pelias-api",
   "pelias-cli",
@@ -24,27 +23,20 @@
   "pelias-wof-admin-lookup",
   "pelias-wof-pip-service",
 
-  "openstreetmap-stream",
-  "osmium-stream",
-  "geonames-stream",
-  "prop-stream",
-  "shapefile-stream",
-
-  "line-interpolate-points",
-  "polygon-lookup",
-
-  "pbf2json",
-
-  "geopipes-elasticsearch-backend",
-
+  "address-deduplicator-stream",
   "fences",
   "fences-builder",
   "fences-slicer",
   "geocodejson-stream",
-  "pelias-logger",
+  "geonames-stream",
+  "geopipes-elasticsearch-backend",
   "line-interpolate-points",
+  "openstreetmap-stream",
+  "osmium-stream",
+  "pbf2json",
   "polygon-lookup",
-
+  "prop-stream",
   "quattroshapes",
-  "schema-mapper"
+  "schema-mapper",
+  "shapefile-stream"
 ]
