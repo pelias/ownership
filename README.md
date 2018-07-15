@@ -1,5 +1,7 @@
 # ownership
 
+**Deprecated:** all Pelias packages should belong _only_ to the [Pelias NPM User](https://www.npmjs.com/~pelias)
+
 This is a **module template**
 for the [`npm owner`](https://docs.npmjs.com/cli/owner) command to
 make management of open source projects with many contributors easier,
